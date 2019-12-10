@@ -1,8 +1,0 @@
- Processor            0  of            8 : Hello World!
- Processor            1  of            8 : Hello World!
- Processor            3  of            8 : Hello World!
- Processor            4  of            8 : Hello World!
- Processor            6  of            8 : Hello World!
- Processor            7  of            8 : Hello World!
- Processor            2  of            8 : Hello World!
- Processor            5  of            8 : Hello World!
