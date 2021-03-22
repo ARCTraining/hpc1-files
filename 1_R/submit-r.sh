@@ -12,7 +12,6 @@
 
 # Send emails when job starts and ends
 #$ -m be
-#$ -M issev030@leeds.ac.uk
 
 # Now run the job
 module load R

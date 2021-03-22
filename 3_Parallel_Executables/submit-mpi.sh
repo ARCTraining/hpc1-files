@@ -15,7 +15,6 @@
 
 # Send emails when job starts and ends
 #$ -m be
-#$ -M issev030@leeds.ac.uk
 
 # Now run the job
 mpirun hello_mpi.x > output.$JOB_ID.txt
